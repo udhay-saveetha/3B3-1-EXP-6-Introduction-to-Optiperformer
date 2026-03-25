@@ -80,10 +80,12 @@ The system includes:
 ## Graphs
 
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+<img width="719" height="248" alt="image" src="https://github.com/user-attachments/assets/5932a730-d38a-46b2-b5ed-b76a7635984c" />
+
+![WhatsApp Image 2025-11-16 at 16 10 15_3925ca10](https://github.com/user-attachments/assets/0010540b-953b-4f71-a9eb-b58497691e2b)
 
 ---
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+Thus theSimulation of Optical Communication System of Introduction to optiperformer has been verified sucessfully
